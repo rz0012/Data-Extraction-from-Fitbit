@@ -67,6 +67,23 @@ STOP 7: Getting results:
 --that is all.
 
 
-Thank you,
-Enjoy the script. 
+Statistical analysis:
+--we gathered Fitbit data first.
+Single stats:
+--plotting data, and performed some basic statistical computations using Python in Google Colab.
+
+Paired stats:
+--We implemented methods for calculating different types of paired statistics
+--Through this process, we first performed some data preprocessing
+--We then found the Pearson correlation coefficient
+--Finally, we performed Principal Component Analysis (PCA), a process which consists of multiple steps including singular value decomposition (SVD)
+
+Prediction:
+--we generated a machine learning algorithm that is capable of making predictions based upon input data
+--In the process, we carried out all of the required steps involved in creating a successful prediction model
+--After the model has been created, we trained it using our dataset
+--Finally, we graphed our results and tested out our predictions
+
+
+
  
