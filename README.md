@@ -69,6 +69,7 @@ STOP 7: Getting results:
 
 Statistical analysis:
 --we gathered Fitbit data first.
+
 Single stats:
 --plotting data, and performed some basic statistical computations using Python in Google Colab.
 
