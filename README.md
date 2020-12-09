@@ -67,6 +67,7 @@ STOP 7: Getting results:
 --that is all.
 
 
+
 Statistical analysis:
 --we gathered Fitbit data first.
 
