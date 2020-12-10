@@ -1,5 +1,4 @@
-
-#please also read readme file in the directory. 
+#please also read readme. 
 
 # install fitbit, pandas, datetime and matplotlib in  machine through terminal if Ubuntu or through cmd if windows. 
 # use pip install (package) to install those 
